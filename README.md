@@ -106,9 +106,20 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <br />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/><b style="margin-left: 15px;">@dapp_red</b>
-</div>
-📝 Email : mogwinfo@gmail.com <br />
-💫 Skype: live:mogwinfo <br />
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <div style="display: flex; align-items: center;">
+      <a href="https://t.me/dapp_red"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">@dapp_red</b>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <a href="mailto:zogmwatech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">zogmwatech@gmail.com</b>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <a href="mailto:zogmwatech@gmail.com"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.2d3e947cc4ec595a</b>
+    </div>
+  </div>
+<div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogmwa" alt="Most usage languages" />
+</div>
