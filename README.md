@@ -87,23 +87,27 @@
  Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 5+ years of experience in BlockChain and of over 10 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using web3 and Solidity. 
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381483-3846cf19-b7fb-4ecd-95a9-50a57b6e4218.gif" width="400" />
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
- 
-### DApps & Online Betting Website
-<br />
+<div>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381483-3846cf19-b7fb-4ecd-95a9-50a57b6e4218.gif" width="300" />
+  <div>
+    ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+    
+    ### DApps & Online Betting Website
+    <br />
 
-### Smart Contract & Crypto
-<br />
+    ### Smart Contract & Crypto
+    <br />
 
-### Crypto Trading Platforms & Bots
-<br />
+    ### Crypto Trading Platforms & Bots
+    <br />
 
-### AR & VR Web and Mobile application
-<br />
+    ### AR & VR Web and Mobile application
+    <br />
 
-### Web & Mobile application using various frameworks
-<br />
+    ### Web & Mobile application using various frameworks
+    <br />
+  </div>
+</div>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <div style="display: flex; justify-content: space-between;">
