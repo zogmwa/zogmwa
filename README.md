@@ -109,7 +109,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
-      <a href="https://t.me/dapp_red"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">@dapp_red</b>
+      <a href="https://t.me/zogmwa_tech"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">@zogmwa_tech</b>
     </div>
     <div style="display: flex; align-items: center;">
       <a href="mailto:zogmwatech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">zogmwatech@gmail.com</b>
