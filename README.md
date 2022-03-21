@@ -81,13 +81,13 @@
   <a href="https://github.com/zogmwa"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
   <a href="https://github.com/zogmwa"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
 </div>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
   <p>
 
  Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 5+ years of experience in BlockChain and of over 10 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using web3 and Solidity. 
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381483-3846cf19-b7fb-4ecd-95a9-50a57b6e4218.gif" width="400" />
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
  
 ### DApps & Online Betting Website
