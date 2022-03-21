@@ -121,5 +121,5 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogmwa" alt="Most usage languages" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogmwa&layout=compact&theme=gotham&count_private=true">
 </div>
