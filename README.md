@@ -1,6 +1,6 @@
 <div align="center" style="position: relative;">
   <img align="center" src="https://user-images.githubusercontent.com/99034743/159275509-948b78ba-8302-43d6-8eab-a317f3a0a310.jpg" style = "width: -webkit-fill-available;"/>
-  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Dapp | DAO | Defi Developer</h1>
+  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">FullStack | Blockchain Developer</h1>
 </div>
 <p align="center">
   <a href="https://github.com/zogmwa"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
