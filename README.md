@@ -89,20 +89,15 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 </p>
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
- 
-### DApps & Online Betting Website
+#### Web application development
 <br />
-
-### Smart Contract & Crypto
+#### Payment Integration
 <br />
-
-### Crypto Trading Platforms & Bots
+#### DApps & Online Betting Website
 <br />
-
-### AR & VR Web and Mobile application
+#### Smart Contract & Crypto
 <br />
-
-### Web & Mobile application using various frameworks
+#### Crypto Trading Platforms & Bots
 <br />
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
